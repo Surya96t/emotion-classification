@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-emotionClassification/__init__.py
-emotionClassification.egg-info/PKG-INFO
-emotionClassification.egg-info/SOURCES.txt
-emotionClassification.egg-info/dependency_links.txt
-emotionClassification.egg-info/top_level.txt
